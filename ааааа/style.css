@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(83, 106, 164, 0.4);
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: rgba(33, 0, 139, 1);
+    font-size: 40px;
+}
+h2 {
+    color: rgba(33, 0, 139, 1);
+}
+.purple {
+    color: rgb(112, 34, 208);
+}
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover; /* делает одинаковыми */
+}
